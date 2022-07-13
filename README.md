@@ -14,10 +14,10 @@ The following tools were used in this project:\
 ✔️ C/C++\
 ✔️ JS
 
-Expo
-Node.js
-React
-React Native
+Expo: 
+Node.js,
+React,
+React Native,
 TypeScript
 
 # ✅Requirements
