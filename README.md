@@ -17,8 +17,9 @@ React
 React Native
 TypeScript
 ✅ Requirements
-$ Before starting 🏁, you need to have Git, Node, and Love installed.
-$ Also helpful to have pygame, AI libraries, and data visualization libraries installed 
+
+Before starting 🏁, you need to have Git, Node, and Love installed.
+Also helpful to have pygame, AI libraries, and data visualization libraries installed 
 
 🏁 Starting
 # Clone this project
