@@ -5,11 +5,11 @@ Hello! This repository showcases the projects that I have completed over the yea
 
 #✨ Features
 ✔️ ML/DL
-✔️ Java, Python, C++, JS
 ✔️ Data Analytics in AI
 
-#🚀 Technologies
+🚀 Technologies
 The following tools were used in this project:
+✔️ Java, Python, C++, JS
 
 Expo
 Node.js
@@ -17,7 +17,8 @@ React
 React Native
 TypeScript
 ✅ Requirements
-Before starting 🏁, you need to have Git and Node installed.
+Before starting 🏁, you need to have Git, Node, and Love installed.
+Also helpful to have pygame, AI libraries, and data visualization libraries installed 
 
 🏁 Starting
 # Clone this project
