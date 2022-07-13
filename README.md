@@ -3,7 +3,7 @@
 🎯 About
 Hello! This repository showcases the projects that I have completed over the years in CS and AI along with a touch of game development. 
 
-#✨ Features
+✨ Features\
 ✔️ ML/DL
 ✔️ Data Analytics in AI
 
