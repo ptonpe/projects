@@ -1,13 +1,12 @@
 # pranavtonpe.github.io
-Hello! This repository showcases the projects that I have completed over the years in CS and AI along with a touch of game development.
 
 🎯 About
-Describe your project
+Hello! This repository showcases the projects that I have completed over the years in CS and AI along with a touch of game development. 
 
 ✨ Features
-✔️ Feature 1;
-✔️ Feature 2;
-✔️ Feature 3;
+✔️ ML/DL
+✔️ Java, Python, C++, JS
+✔️ Data Analytics in AI
 
 🚀 Technologies
 The following tools were used in this project:
@@ -22,23 +21,16 @@ Before starting 🏁, you need to have Git and Node installed.
 
 🏁 Starting
 # Clone this project
-$ git clone https://github.com/{{github}}/{{repository}}
+$ git clone https://github.com/githubfree123/githubfree123.github.io
 
 # Access
-$ cd {{repository}}
-
-# Install dependencies
-$ yarn
+$ cd githubfree123.github.io
 
 # Run the project
-$ yarn start
+$ 
 
-# The server will initialize in the <http://localhost:3000>
 📝 License
 This project is under license from MIT. For more details, see the LICENSE file.
 
-Made with ❤️ by {{author}}
+Made by Pranav Tonpe
 
- 
-
-Back to top
