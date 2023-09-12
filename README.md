@@ -31,8 +31,5 @@ $ git clone https://github.com/githubfree123/githubfree123.github.io
 # Access
 $ cd githubfree123.github.io
 
-# 📝 License
-This project is under license from MIT. For more details, see the LICENSE file.
-
 Made by Pranav Tonpe!
 
