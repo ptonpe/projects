@@ -1,0 +1,825 @@
+Airline,Flight Number,Departure City,Arrival City,Price,Stops,Duration,Departure Time of Day,Arrival Time of Day
+American,AA 1299,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,295,0,71,evening,night
+American,AA 1228,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,295,0,73,night,night
+United,UA 6321,Austin-Bergstrom International Airport,George Bush Intercontinental Airport,304,1,66,evening,night
+United,UA 6116,George Bush Intercontinental Airport,Dallas Fort Worth International Airport,304,1,83,night,night
+American,AA 2434,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,369,0,70,afternoon,afternoon
+American,AA 2912,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,369,0,73,evening,evening
+American,AA 377,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,399,0,72,morning,morning
+American,AA 552,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,399,0,72,morning,morning
+American,AA 2198,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,399,0,70,afternoon,afternoon
+American,AA 3138,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,399,0,73,afternoon,evening
+American,AA 1060,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,399,0,73,evening,evening
+American,AA 2563,Austin-Bergstrom International Airport,Dallas Fort Worth International Airport,464,0,73,early morning,early morning
+United,UA 532,Denver International Airport,Chicago O'Hare International Airport,292,1,154,early morning,morning
+United,UA 399,Chicago O'Hare International Airport,Boston Logan International Airport,292,1,143,morning,afternoon
+Delta,DL 1129,Denver International Airport,Minneapolis�Saint Paul International Airport,392,1,128,early morning,morning
+Delta,DL 2655,Minneapolis�Saint Paul International Airport,Boston Logan International Airport,392,1,170,morning,afternoon
+United,UA 558,Denver International Airport,Boston Logan International Airport,462,0,230,morning,afternoon
+United,UA 597,Denver International Airport,Boston Logan International Airport,462,0,230,afternoon,evening
+United,UA 1510,Denver International Airport,Boston Logan International Airport,462,0,234,evening,night
+United,UA 2461,Denver International Airport,Boston Logan International Airport,487,0,230,morning,afternoon
+Southwest,WN 2575,Denver International Airport,Boston Logan International Airport,506,0,230,morning,afternoon
+Southwest,WN 4234,Denver International Airport,Boston Logan International Airport,554,0,230,evening,night
+Southwest,WN 1554,Denver International Airport,Boston Logan International Airport,584,0,235,morning,evening
+United,UA 2420,San Francisco International Airport,Denver International Airport,397,0,155,early morning,morning
+United,UA 452,San Francisco International Airport,Denver International Airport,397,0,161,early morning,morning
+United,UA 2862,San Francisco International Airport,Denver International Airport,397,0,159,evening,night
+Delta,DL 920,San Francisco International Airport,Salt Lake City International Airport,446,1,115,morning,afternoon
+Delta,DL 1623,Salt Lake City International Airport,Denver International Airport,446,1,91,afternoon,afternoon
+United,UA 501,San Francisco International Airport,Denver International Airport,484,0,159,morning,afternoon
+United,UA 277,San Francisco International Airport,Denver International Airport,526,0,154,morning,afternoon
+United,UA 1791,San Francisco International Airport,Denver International Airport,558,0,155,afternoon,afternoon
+American,AA 2423,San Francisco International Airport,Phoenix Sky Harbor International Airport,562,1,120,afternoon,afternoon
+American,AA 1309,Phoenix Sky Harbor International Airport,Denver International Airport,562,1,107,afternoon,evening
+United,UA 757,Seattle Tacoma International Airport,Denver International Airport,223,1,165,afternoon,evening
+United,UA 377,Denver International Airport,Chicago O'Hare International Airport,223,1,148,night,night
+Delta,DL 2108,Seattle Tacoma International Airport,Chicago O'Hare International Airport,233,0,241,evening,night
+United,UA 2296,Seattle Tacoma International Airport,Chicago O'Hare International Airport,262,0,246,morning,afternoon
+Alaska,AS 352,Seattle Tacoma International Airport,Chicago O'Hare International Airport,377,0,254,morning,evening
+Alaska,AS 538,Seattle Tacoma International Airport,Chicago O'Hare International Airport,377,0,236,evening,night
+Alaska,AS 408,Seattle Tacoma International Airport,Chicago O'Hare International Airport,547,0,255,morning,afternoon
+United,UA 558,Denver International Airport,Boston Logan International Airport,462,0,244,morning,afternoon
+United,UA 1510,Denver International Airport,Boston Logan International Airport,462,0,239,evening,night
+American,AA 1647,Denver International Airport,Chicago O'Hare International Airport,463,1,146,morning,afternoon
+American,AA 3160,Chicago O'Hare International Airport,Boston Logan International Airport,463,1,136,afternoon,evening
+United,UA 1027,Denver International Airport,Boston Logan International Airport,505,0,239,afternoon,night
+United,UA 597,Denver International Airport,Boston Logan International Airport,550,0,244,afternoon,evening
+United,UA 2461,Denver International Airport,Boston Logan International Airport,561,0,244,morning,afternoon
+United,UA 1387,Chicago O'Hare International Airport,San Francisco International Airport,287,1,295,morning,morning
+United,UA 1387,San Francisco International Airport,Seattle Tacoma International Airport,287,1,139,afternoon,afternoon
+United,UA 2211,Chicago O'Hare International Airport,Seattle Tacoma International Airport,287,0,283,evening,night
+Alaska,AS 335,Chicago O'Hare International Airport,Seattle Tacoma International Airport,317,0,282,afternoon,afternoon
+Alaska,AS 353,Chicago O'Hare International Airport,Seattle Tacoma International Airport,317,0,281,evening,night
+Delta,DL 2041,Chicago O'Hare International Airport,Seattle Tacoma International Airport,320,0,298,morning,morning
+United,UA 1705,Chicago O'Hare International Airport,Seattle Tacoma International Airport,377,0,284,morning,morning
+JetBlue,B6 2615,John F. Kennedy International Airport,San Francisco International Airport,407,0,404,night,early morning
+Delta,DL 669,John F. Kennedy International Airport,San Francisco International Airport,422,0,417,morning,afternoon
+JetBlue,B6 115,John F. Kennedy International Airport,San Francisco International Airport,437,0,399,morning,afternoon
+JetBlue,B6 815,John F. Kennedy International Airport,San Francisco International Airport,437,0,397,afternoon,afternoon
+JetBlue,B6 615,John F. Kennedy International Airport,San Francisco International Airport,437,0,399,afternoon,night
+Delta,DL 679,John F. Kennedy International Airport,San Francisco International Airport,462,0,406,afternoon,evening
+Delta,DL 670,John F. Kennedy International Airport,San Francisco International Airport,462,0,409,evening,night
+American,AA 179,John F. Kennedy International Airport,San Francisco International Airport,502,0,428,morning,afternoon
+Alaska,AS 41,John F. Kennedy International Airport,San Francisco International Airport,542,0,406,afternoon,evening
+Delta,DL 363,John F. Kennedy International Airport,San Francisco International Airport,572,0,409,morning,afternoon
+American,AA 2305,John F. Kennedy International Airport,San Francisco International Airport,702,0,410,evening,night
+American,AA 177,John F. Kennedy International Airport,San Francisco International Airport,702,0,412,night,early morning
+Alaska,AS 15,John F. Kennedy International Airport,San Francisco International Airport,822,0,405,afternoon,afternoon
+United,UA 1484,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,290,morning,afternoon
+United,UA 2440,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,277,afternoon,afternoon
+United,UA 1310,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,285,afternoon,evening
+United,UA 1859,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,293,evening,night
+United,UA 2106,Chicago O'Hare International Airport,Los Angeles International Airport,334,0,292,night,night
+American,AA 2062,Chicago O'Hare International Airport,Los Angeles International Airport,340,0,288,afternoon,evening
+American,AA 529,Chicago O'Hare International Airport,Los Angeles International Airport,340,0,283,afternoon,evening
+American,AA 2941,Chicago O'Hare International Airport,Los Angeles International Airport,340,0,290,night,night
+American,AA 2012,Chicago O'Hare International Airport,Los Angeles International Airport,354,0,285,morning,morning
+American,AA 1979,Chicago O'Hare International Airport,Los Angeles International Airport,354,0,286,morning,afternoon
+American,AA 2364,Chicago O'Hare International Airport,Los Angeles International Airport,374,0,282,evening,night
+Southwest,WN 1582,Chicago O'Hare International Airport,Denver International Airport,430,1,165,early morning,morning
+Southwest,WN 1651,Denver International Airport,Los Angeles International Airport,430,1,160,morning,morning
+JetBlue,B6 896,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,237,0,158,evening,night
+JetBlue,B6 1320,Hartsfield-Jackson Atlanta International Airport,John F. Kennedy International Airport,246,1,134,early morning,morning
+JetBlue,B6 118,John F. Kennedy International Airport,Boston Logan International Airport,246,1,75,morning,morning
+American,AA 2479,Hartsfield-Jackson Atlanta International Airport,Charlotte Douglas International Airport,247,1,78,early morning,early morning
+American,AA 1449,Charlotte Douglas International Airport,Boston Logan International Airport,247,1,129,morning,morning
+Delta,DL 518,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,267,0,157,night,night
+Delta,DL 865,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,267,0,153,night,early morning
+Delta,DL 726,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,298,0,153,afternoon,evening
+Delta,DL 855,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,337,0,155,morning,afternoon
+Southwest,WN 1705,Hartsfield-Jackson Atlanta International Airport,Baltimore/Washington International Thurgood Marshall Airport,456,1,105,early morning,morning
+Southwest,WN 954,Baltimore/Washington International Thurgood Marshall Airport,Boston Logan International Airport,456,1,95,morning,morning
+Delta,DL 300,Hartsfield-Jackson Atlanta International Airport,Boston Logan International Airport,482,0,156,evening,night
+JetBlue,B6 2116,San Francisco International Airport,John F. Kennedy International Airport,347,0,335,morning,evening
+JetBlue,B6 1216,San Francisco International Airport,John F. Kennedy International Airport,347,0,334,afternoon,night
+JetBlue,B6 616,San Francisco International Airport,John F. Kennedy International Airport,347,0,328,afternoon,night
+JetBlue,B6 2416,San Francisco International Airport,John F. Kennedy International Airport,347,0,328,night,morning
+Delta,DL 405,San Francisco International Airport,John F. Kennedy International Airport,472,0,329,morning,afternoon
+Delta,DL 383,San Francisco International Airport,John F. Kennedy International Airport,472,0,340,morning,evening
+Delta,DL 317,San Francisco International Airport,John F. Kennedy International Airport,472,0,335,afternoon,night
+Delta,DL 670,San Francisco International Airport,John F. Kennedy International Airport,472,0,330,night,morning
+American,AA 234,San Francisco International Airport,John F. Kennedy International Airport,482,0,334,morning,afternoon
+American,AA 16,San Francisco International Airport,John F. Kennedy International Airport,482,0,340,morning,evening
+American,AA 166,San Francisco International Airport,John F. Kennedy International Airport,482,0,335,afternoon,night
+American,AA 276,San Francisco International Airport,John F. Kennedy International Airport,482,0,336,night,morning
+Delta,DL 363,San Francisco International Airport,John F. Kennedy International Airport,507,0,330,afternoon,early morning
+United,UA 2440,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,277,afternoon,afternoon
+American,AA 2062,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,288,afternoon,evening
+American,AA 529,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,283,afternoon,evening
+United,UA 1310,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,285,afternoon,evening
+American,AA 2364,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,282,evening,night
+United,UA 1859,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,293,evening,night
+American,AA 2941,Chicago O'Hare International Airport,Los Angeles International Airport,320,0,290,night,night
+American,AA 1979,Chicago O'Hare International Airport,Los Angeles International Airport,334,0,286,morning,afternoon
+United,UA 1484,Chicago O'Hare International Airport,Los Angeles International Airport,369,0,290,morning,afternoon
+United,UA 2106,Chicago O'Hare International Airport,Los Angeles International Airport,410,0,292,evening,night
+United,UA 2097,San Francisco International Airport,Chicago O'Hare International Airport,379,0,258,night,early morning
+American,AA 2761,San Francisco International Airport,Chicago O'Hare International Airport,388,0,255,night,early morning
+American,AA 2418,San Francisco International Airport,Chicago O'Hare International Airport,443,0,257,afternoon,evening
+United,UA 2466,San Francisco International Airport,Chicago O'Hare International Airport,464,0,257,afternoon,night
+Southwest,WN 1629,San Francisco International Airport,Denver International Airport,476,1,150,morning,morning
+Southwest,WN 985,Denver International Airport,Chicago O'Hare International Airport,476,1,150,afternoon,afternoon
+United,UA 1372,San Francisco International Airport,Chicago O'Hare International Airport,488,0,266,afternoon,night
+United,UA 2117,San Francisco International Airport,Chicago O'Hare International Airport,488,0,258,evening,early morning
+Alaska,AS 598,San Francisco International Airport,Chicago O'Hare International Airport,538,0,264,morning,evening
+United,UA 793,San Francisco International Airport,Chicago O'Hare International Airport,616,0,266,morning,afternoon
+United,UA 574,San Francisco International Airport,Chicago O'Hare International Airport,617,0,266,evening,night
+United,UA 1612,San Francisco International Airport,Chicago O'Hare International Airport,814,0,265,morning,evening
+American,AA 1226,Miami International Airport,Dallas Fort Worth International Airport,329,0,203,early morning,morning
+American,AA 2962,Miami International Airport,Dallas Fort Worth International Airport,329,0,200,early morning,morning
+American,AA 2575,Miami International Airport,Dallas Fort Worth International Airport,329,0,199,morning,morning
+American,AA 3155,Miami International Airport,Dallas Fort Worth International Airport,329,0,216,night,night
+American,AA 1633,Miami International Airport,Dallas Fort Worth International Airport,359,0,203,morning,morning
+American,AA 1646,Miami International Airport,Dallas Fort Worth International Airport,359,0,211,afternoon,evening
+American,AA 2775,Miami International Airport,Dallas Fort Worth International Airport,359,0,208,evening,night
+American,AA 1950,Miami International Airport,Dallas Fort Worth International Airport,397,0,203,night,night
+American,AA 2038,Miami International Airport,Dallas Fort Worth International Airport,417,0,201,afternoon,afternoon
+United,UA 657,Dallas Fort Worth International Airport,San Francisco International Airport,316,0,241,morning,morning
+American,AA 2980,Dallas Fort Worth International Airport,San Francisco International Airport,318,0,248,morning,morning
+American,AA 2231,Dallas Fort Worth International Airport,San Francisco International Airport,318,0,239,morning,afternoon
+American,AA 1264,Dallas Fort Worth International Airport,San Francisco International Airport,318,0,234,afternoon,afternoon
+American,AA 1430,Dallas Fort Worth International Airport,San Francisco International Airport,318,0,236,evening,night
+American,AA 2177,Dallas Fort Worth International Airport,San Francisco International Airport,379,0,233,morning,morning
+American,AA 76,John F. Kennedy International Airport,San Francisco International Airport,522,0,404,early morning,morning
+American,AA 179,John F. Kennedy International Airport,San Francisco International Airport,522,0,421,morning,afternoon
+American,AA 2305,John F. Kennedy International Airport,San Francisco International Airport,522,0,406,evening,night
+American,AA 177,John F. Kennedy International Airport,San Francisco International Airport,522,0,404,night,early morning
+Delta,DL 668,John F. Kennedy International Airport,San Francisco International Airport,572,0,392,morning,morning
+Delta,DL 669,John F. Kennedy International Airport,San Francisco International Airport,572,0,396,morning,afternoon
+Delta,DL 680,John F. Kennedy International Airport,San Francisco International Airport,572,0,400,morning,afternoon
+Delta,DL 679,John F. Kennedy International Airport,San Francisco International Airport,572,0,407,afternoon,evening
+Delta,DL 670,John F. Kennedy International Airport,San Francisco International Airport,572,0,405,evening,night
+Delta,DL 667,John F. Kennedy International Airport,San Francisco International Airport,666,0,412,evening,night
+JetBlue,B6 15,John F. Kennedy International Airport,San Francisco International Airport,697,0,398,morning,morning
+JetBlue,B6 1515,John F. Kennedy International Airport,San Francisco International Airport,697,0,392,morning,afternoon
+JetBlue,B6 115,John F. Kennedy International Airport,San Francisco International Airport,697,0,396,morning,afternoon
+JetBlue,B6 615,John F. Kennedy International Airport,San Francisco International Airport,697,0,397,afternoon,evening
+JetBlue,B6 2615,John F. Kennedy International Airport,San Francisco International Airport,697,0,404,night,early morning
+JetBlue,B6 815,John F. Kennedy International Airport,San Francisco International Airport,697,0,394,night,early morning
+United,UA 592,Boston Logan International Airport,Newark Liberty International Airport,236,1,85,morning,afternoon
+United,UA 1639,Newark Liberty International Airport,Miami International Airport,236,1,199,afternoon,afternoon
+American,AA 1418,Boston Logan International Airport,Miami International Airport,252,0,231,early morning,morning
+American,AA 1745,Boston Logan International Airport,Miami International Airport,252,0,226,afternoon,afternoon
+American,AA 2765,Boston Logan International Airport,Miami International Airport,302,0,225,early morning,morning
+Delta,DL 1399,Boston Logan International Airport,Miami International Airport,332,0,230,morning,afternoon
+JetBlue,B6 1519,Boston Logan International Airport,Miami International Airport,357,0,217,morning,morning
+American,AA 3932,Boston Logan International Airport,Miami International Airport,372,0,231,morning,afternoon
+United,UA 405,Los Angeles International Airport,Boston Logan International Airport,434,0,340,afternoon,night
+American,AA 12,Los Angeles International Airport,Boston Logan International Airport,446,0,338,morning,afternoon
+JetBlue,B6 188,Los Angeles International Airport,Boston Logan International Airport,494,0,332,early morning,afternoon
+JetBlue,B6 688,Los Angeles International Airport,Boston Logan International Airport,527,0,336,morning,evening
+JetBlue,B6 988,Los Angeles International Airport,Boston Logan International Airport,527,0,328,afternoon,night
+JetBlue,B6 288,Los Angeles International Airport,Boston Logan International Airport,527,0,328,afternoon,night
+Delta,DL 639,Los Angeles International Airport,Boston Logan International Airport,570,0,332,morning,afternoon
+Delta,DL 507,Los Angeles International Airport,Boston Logan International Airport,570,0,335,night,early morning
+United,UA 1783,Los Angeles International Airport,Boston Logan International Airport,652,0,323,morning,afternoon
+Delta,DL 437,Los Angeles International Airport,Boston Logan International Airport,712,0,332,afternoon,night
+American,AA 2765,Los Angeles International Airport,Miami International Airport,501,0,295,afternoon,night
+American,AA 1990,Los Angeles International Airport,Miami International Airport,501,0,303,afternoon,night
+United,UA 1416,Los Angeles International Airport,George Bush Intercontinental Airport,502,1,200,morning,afternoon
+United,UA 1501,George Bush Intercontinental Airport,Miami International Airport,502,1,153,afternoon,evening
+American,AA 2186,Los Angeles International Airport,Miami International Airport,531,0,300,night,early morning
+American,AA 2755,Los Angeles International Airport,Miami International Airport,554,0,301,night,morning
+Delta,DL 811,Los Angeles International Airport,Miami International Airport,869,0,303,morning,afternoon
+United,UA 2013,Seattle Tacoma International Airport,Chicago O'Hare International Airport,273,0,243,afternoon,night
+United,UA 1195,Seattle Tacoma International Airport,Chicago O'Hare International Airport,273,0,238,evening,night
+United,UA 1631,Seattle Tacoma International Airport,Chicago O'Hare International Airport,273,0,240,night,early morning
+United,UA 747,Seattle Tacoma International Airport,Chicago O'Hare International Airport,273,0,237,night,early morning
+American,AA 2398,Seattle Tacoma International Airport,Chicago O'Hare International Airport,298,0,251,afternoon,evening
+Delta,DL 2341,Seattle Tacoma International Airport,Chicago O'Hare International Airport,313,0,254,morning,evening
+Delta,DL 2055,Seattle Tacoma International Airport,Chicago O'Hare International Airport,347,0,251,morning,afternoon
+Alaska,AS 429,Seattle Tacoma International Airport,Chicago O'Hare International Airport,353,0,255,morning,afternoon
+Alaska,AS 410,Seattle Tacoma International Airport,Chicago O'Hare International Airport,353,0,245,morning,evening
+United,UA 2296,Seattle Tacoma International Airport,Chicago O'Hare International Airport,357,0,245,morning,evening
+Alaska,AS 408,Seattle Tacoma International Airport,Chicago O'Hare International Airport,403,0,244,early morning,afternoon
+Alaska,AS 890,Seattle Tacoma International Airport,Chicago O'Hare International Airport,403,0,244,morning,afternoon
+United,UA 2113,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,250,morning,evening
+United,UA 1069,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,254,afternoon,evening
+United,UA 2487,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,250,afternoon,night
+United,UA 1013,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,260,afternoon,night
+United,UA 1312,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,242,evening,night
+United,UA 2622,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,228,night,early morning
+United,UA 1843,Los Angeles International Airport,Chicago O'Hare International Airport,471,0,250,night,early morning
+American,AA 2757,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,238,early morning,early morning
+American,AA 383,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,250,early morning,afternoon
+American,AA 2608,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,245,morning,afternoon
+American,AA 613,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,247,morning,evening
+American,AA 1979,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,245,afternoon,evening
+American,AA 2037,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,243,evening,night
+American,AA 1009,Los Angeles International Airport,Chicago O'Hare International Airport,491,0,243,night,early morning
+Delta,DL 5783,John F. Kennedy International Airport,Chicago O'Hare International Airport,188,0,175,afternoon,evening
+Delta,DL 3709,John F. Kennedy International Airport,Chicago O'Hare International Airport,188,0,179,evening,night
+Delta,DL 5705,John F. Kennedy International Airport,Chicago O'Hare International Airport,197,0,175,morning,morning
+American,AA 4734,John F. Kennedy International Airport,Pittsburgh International Airport,224,1,102,afternoon,afternoon
+American,AA 4406,Pittsburgh International Airport,Chicago O'Hare International Airport,224,1,105,afternoon,afternoon
+JetBlue,B6 1205,John F. Kennedy International Airport,Chicago O'Hare International Airport,237,0,173,afternoon,afternoon
+American,AA 655,John F. Kennedy International Airport,Miami International Airport,222,0,192,early morning,morning
+American,AA 3238,John F. Kennedy International Airport,Miami International Airport,222,0,192,early morning,morning
+American,AA 2017,John F. Kennedy International Airport,Miami International Airport,222,0,196,morning,morning
+American,AA 595,John F. Kennedy International Airport,Miami International Airport,222,0,196,morning,afternoon
+American,AA 2786,John F. Kennedy International Airport,Miami International Airport,222,0,193,afternoon,afternoon
+American,AA 2603,John F. Kennedy International Airport,Miami International Airport,222,0,195,evening,night
+American,AA 1174,John F. Kennedy International Airport,Miami International Airport,222,0,195,evening,night
+JetBlue,B6 2293,John F. Kennedy International Airport,Miami International Airport,232,0,194,morning,morning
+JetBlue,B6 2593,John F. Kennedy International Airport,Miami International Airport,232,0,188,morning,afternoon
+JetBlue,B6 1993,John F. Kennedy International Airport,Miami International Airport,302,0,194,afternoon,afternoon
+Delta,DL 1514,John F. Kennedy International Airport,Miami International Airport,342,0,196,morning,afternoon
+Delta,DL 2003,John F. Kennedy International Airport,Miami International Airport,342,0,202,afternoon,afternoon
+Delta,DL 1528,John F. Kennedy International Airport,Miami International Airport,362,0,204,morning,morning
+Delta,DL 1438,John F. Kennedy International Airport,Miami International Airport,412,0,203,afternoon,evening
+Delta,DL 1428,John F. Kennedy International Airport,Miami International Airport,412,0,208,evening,night
+United,UA 380,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,392,1,145,morning,morning
+United,UA 380,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,392,1,125,morning,afternoon
+Delta,DL 374,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,451,0,134,evening,night
+American,AA 2403,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,480,0,118,afternoon,evening
+American,AA 3323,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,550,0,132,morning,morning
+American,AA 1276,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,550,0,128,morning,morning
+American,AA 1236,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,550,0,128,afternoon,afternoon
+Delta,DL 401,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,560,0,128,early morning,morning
+Delta,DL 893,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,560,0,131,morning,morning
+Delta,DL 961,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,560,0,126,afternoon,afternoon
+Delta,DL 414,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,560,0,121,afternoon,evening
+Delta,DL 32,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,560,0,124,afternoon,evening
+American,AA 3104,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,664,0,126,morning,afternoon
+American,AA 1248,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,664,0,126,afternoon,evening
+Southwest,WN 4163,Los Angeles International Airport,Louis Armstrong New Orleans International Airport,608,1,215,morning,afternoon
+Southwest,WN 3457,Louis Armstrong New Orleans International Airport,Hartsfield-Jackson Atlanta International Airport,608,1,80,afternoon,afternoon
+Delta,DL 523,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,614,0,257,afternoon,night
+Delta,DL 783,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,614,0,254,night,early morning
+Delta,DL 782,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,683,0,250,morning,afternoon
+Delta,DL 528,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,683,0,259,afternoon,evening
+Delta,DL 302,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,683,0,256,night,early morning
+Delta,DL 320,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,683,0,258,night,morning
+American,AA 990,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,763,0,257,morning,afternoon
+Delta,DL 515,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,783,0,255,morning,afternoon
+Delta,DL 395,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,973,0,258,afternoon,night
+Delta,DL 715,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,973,0,254,afternoon,night
+Delta,DL 327,Los Angeles International Airport,Hartsfield-Jackson Atlanta International Airport,1613,0,265,morning,evening
+American,AA 2712,Dallas Fort Worth International Airport,John F. Kennedy International Airport,447,0,210,afternoon,evening
+American,AA 1582,Dallas Fort Worth International Airport,John F. Kennedy International Airport,516,0,221,morning,afternoon
+Delta,DL 454,Dallas Fort Worth International Airport,John F. Kennedy International Airport,517,0,208,morning,afternoon
+Delta,DL 539,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,527,1,128,evening,night
+Delta,DL 2330,Hartsfield-Jackson Atlanta International Airport,John F. Kennedy International Airport,527,1,134,night,early morning
+Delta,DL 352,Dallas Fort Worth International Airport,John F. Kennedy International Airport,587,0,210,afternoon,afternoon
+American,AA 606,Dallas Fort Worth International Airport,John F. Kennedy International Airport,673,0,220,afternoon,afternoon
+American,AA 2748,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,412,0,238,early morning,morning
+American,AA 1667,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,412,0,241,morning,afternoon
+American,AA 2767,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,412,0,236,morning,evening
+American,AA 1992,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,412,0,235,afternoon,evening
+American,AA 2405,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,412,0,235,afternoon,night
+American,AA 1534,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,462,0,236,morning,afternoon
+Delta,DL 1249,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,400,0,125,early morning,morning
+Delta,DL 1261,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,435,0,122,morning,morning
+Delta,DL 1328,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,435,0,125,evening,night
+American,AA 1602,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,460,0,120,afternoon,evening
+Delta,DL 1579,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,490,0,122,afternoon,evening
+Delta,DL 1323,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,490,0,120,afternoon,evening
+Delta,DL 1386,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,490,0,125,evening,night
+Delta,DL 2836,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,580,0,123,morning,afternoon
+Delta,DL 1510,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,580,0,122,afternoon,afternoon
+Delta,DL 1332,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,580,0,119,afternoon,afternoon
+American,AA 2423,San Francisco International Airport,Phoenix Sky Harbor International Airport,445,1,117,afternoon,afternoon
+American,AA 832,Phoenix Sky Harbor International Airport,John F. Kennedy International Airport,445,1,274,afternoon,night
+JetBlue,B6 2116,San Francisco International Airport,John F. Kennedy International Airport,487,0,332,afternoon,night
+JetBlue,B6 416,San Francisco International Airport,John F. Kennedy International Airport,525,0,328,morning,evening
+JetBlue,B6 1076,San Francisco International Airport,John F. Kennedy International Airport,547,0,333,night,morning
+Delta,DL 405,San Francisco International Airport,John F. Kennedy International Airport,572,0,329,morning,afternoon
+American,AA 234,San Francisco International Airport,John F. Kennedy International Airport,572,0,327,morning,afternoon
+American,AA 16,San Francisco International Airport,John F. Kennedy International Airport,572,0,332,morning,evening
+American,AA 166,San Francisco International Airport,John F. Kennedy International Airport,572,0,331,afternoon,night
+Delta,DL 669,San Francisco International Airport,John F. Kennedy International Airport,572,0,331,afternoon,night
+Delta,DL 363,San Francisco International Airport,John F. Kennedy International Airport,572,0,330,afternoon,early morning
+American,AA 276,San Francisco International Airport,John F. Kennedy International Airport,572,0,329,night,morning
+JetBlue,B6 2416,San Francisco International Airport,John F. Kennedy International Airport,577,0,325,night,early morning
+Delta,DL 383,San Francisco International Airport,John F. Kennedy International Airport,666,0,340,morning,evening
+Delta,DL 317,San Francisco International Airport,John F. Kennedy International Airport,666,0,335,afternoon,night
+Delta,DL 670,San Francisco International Airport,John F. Kennedy International Airport,707,0,330,night,morning
+American,AA 2770,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,333,0,155,early morning,early morning
+American,AA 1567,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,333,0,150,morning,morning
+American,AA 1236,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,333,0,155,afternoon,evening
+American,AA 1248,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,333,0,152,evening,evening
+American,AA 2403,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,333,0,152,night,night
+United,UA 470,Hartsfield-Jackson Atlanta International Airport,George Bush Intercontinental Airport,352,1,148,afternoon,evening
+United,UA 1882,George Bush Intercontinental Airport,Dallas Fort Worth International Airport,352,1,86,evening,evening
+Delta,DL 839,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,403,0,149,morning,morning
+Delta,DL 31,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,403,0,146,night,night
+Delta,DL 818,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,403,0,146,night,night
+Delta,DL 961,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,451,0,153,morning,morning
+Delta,DL 921,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,451,0,147,afternoon,afternoon
+Delta,DL 374,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,451,0,147,afternoon,afternoon
+Delta,DL 436,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,451,0,148,evening,evening
+United,UA 573,Denver International Airport,San Francisco International Airport,397,0,170,early morning,morning
+United,UA 2391,Denver International Airport,San Francisco International Airport,397,0,171,morning,morning
+United,UA 1300,Denver International Airport,San Francisco International Airport,397,0,171,afternoon,evening
+United,UA 1007,Denver International Airport,San Francisco International Airport,397,0,171,evening,evening
+United,UA 2190,Denver International Airport,San Francisco International Airport,397,0,168,night,night
+Southwest,WN 1798,Denver International Airport,San Francisco International Airport,398,0,165,night,early morning
+Southwest,WN 802,Denver International Airport,San Francisco International Airport,416,0,165,afternoon,evening
+Southwest,WN 1241,Denver International Airport,San Francisco International Airport,416,0,165,evening,night
+Southwest,WN 1119,Denver International Airport,San Francisco International Airport,430,0,165,morning,afternoon
+United,UA 247,Denver International Airport,San Francisco International Airport,478,0,171,evening,night
+Delta,DL 1553,Denver International Airport,Salt Lake City International Airport,502,1,97,afternoon,afternoon
+Delta,DL 1088,Salt Lake City International Airport,San Francisco International Airport,502,1,127,afternoon,afternoon
+United,UA 1414,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,170,early morning,morning
+Delta,DL 2570,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,181,morning,morning
+American,AA 1509,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,177,morning,morning
+United,UA 1316,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,169,morning,morning
+United,UA 1732,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,167,afternoon,afternoon
+American,AA 4434,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,183,afternoon,afternoon
+Delta,DL 2646,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,175,afternoon,afternoon
+United,UA 519,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,167,afternoon,afternoon
+United,UA 2040,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,167,evening,evening
+American,AA 2837,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,176,evening,evening
+United,UA 1015,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,172,evening,night
+Delta,DL 2676,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,175,evening,night
+United,UA 528,Boston Logan International Airport,Chicago O'Hare International Airport,199,0,164,night,night
+American,AA 4486,Boston Logan International Airport,Chicago O'Hare International Airport,223,0,185,afternoon,afternoon
+American,AA 3711,Boston Logan International Airport,Chicago O'Hare International Airport,223,0,184,afternoon,evening
+JetBlue,B6 311,Boston Logan International Airport,Chicago O'Hare International Airport,262,0,172,early morning,morning
+American,AA 581,Miami International Airport,Chicago O'Hare International Airport,367,1,209,early morning,morning
+American,AA 2398,Chicago O'Hare International Airport,Seattle Tacoma International Airport,367,1,287,morning,afternoon
+American,AA 2575,Miami International Airport,Dallas Fort Worth International Airport,367,1,208,morning,morning
+American,AA 1992,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,367,1,286,morning,afternoon
+American,AA 843,Miami International Airport,Dallas Fort Worth International Airport,367,1,200,morning,morning
+American,AA 2405,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,367,1,270,afternoon,afternoon
+American,AA 411,Miami International Airport,Charlotte Douglas International Airport,367,1,137,afternoon,evening
+American,AA 2793,Charlotte Douglas International Airport,Seattle Tacoma International Airport,367,1,360,evening,night
+United,UA 2419,Miami International Airport,Denver International Airport,387,1,278,morning,morning
+United,UA 690,Denver International Airport,Seattle Tacoma International Airport,387,1,185,morning,afternoon
+American,AA 1366,Dallas Fort Worth International Airport,Boston Logan International Airport,307,0,216,evening,night
+American,AA 1662,Dallas Fort Worth International Airport,Philadelphia International Airport,322,1,181,afternoon,evening
+American,AA 4358,Philadelphia International Airport,Boston Logan International Airport,322,1,83,evening,evening
+American,AA 1401,Dallas Fort Worth International Airport,Boston Logan International Airport,387,0,215,afternoon,evening
+United,UA 1240,Dallas Fort Worth International Airport,Dulles International Airport,404,1,170,evening,night
+United,UA 755,Dulles International Airport,Boston Logan International Airport,404,1,95,night,night
+United,UA 560,Dallas Fort Worth International Airport,Newark Liberty International Airport,429,1,200,morning,afternoon
+United,UA 2612,Newark Liberty International Airport,Boston Logan International Airport,429,1,76,evening,evening
+American,AA 2633,Miami International Airport,Los Angeles International Airport,424,0,367,early morning,morning
+American,AA 1098,Miami International Airport,Los Angeles International Airport,424,0,367,morning,morning
+American,AA 1234,Miami International Airport,Los Angeles International Airport,424,0,366,afternoon,afternoon
+American,AA 2289,Miami International Airport,Los Angeles International Airport,424,0,370,evening,night
+American,AA 2290,Miami International Airport,Los Angeles International Airport,424,0,379,evening,night
+American,AA 669,Miami International Airport,Los Angeles International Airport,424,0,372,night,early morning
+United,UA 2106,Miami International Airport,Chicago O'Hare International Airport,439,1,222,afternoon,evening
+United,UA 2106,Chicago O'Hare International Airport,Los Angeles International Airport,439,1,292,night,night
+Southwest,WN 4458,Miami International Airport,Austin-Bergstrom International Airport,445,1,195,afternoon,afternoon
+Southwest,WN 4667,Austin-Bergstrom International Airport,Los Angeles International Airport,445,1,210,afternoon,afternoon
+American,AA 2779,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,383,0,120,evening,night
+United,UA 356,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,411,0,125,afternoon,evening
+United,UA 381,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,411,0,129,evening,night
+Delta,DL 1247,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,457,0,126,morning,morning
+Delta,DL 1178,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,457,0,119,morning,afternoon
+Delta,DL 1147,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,507,0,118,morning,afternoon
+Delta,DL 2738,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,507,0,123,evening,night
+Delta,DL 2879,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,507,0,123,evening,night
+American,AA 3769,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,510,0,129,afternoon,evening
+Delta,DL 2509,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,597,0,118,afternoon,afternoon
+Delta,DL 1477,Chicago O'Hare International Airport,Hartsfield-Jackson Atlanta International Airport,597,0,114,afternoon,evening
+American,AA 2748,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,346,1,238,early morning,morning
+American,AA 1236,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,346,1,125,afternoon,afternoon
+American,AA 1667,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,346,1,241,morning,afternoon
+American,AA 1248,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,346,1,122,afternoon,evening
+American,AA 2767,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,346,1,236,morning,evening
+American,AA 2072,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,346,1,124,evening,night
+Delta,DL 542,Seattle Tacoma International Airport,Hartsfield-Jackson Atlanta International Airport,427,0,298,afternoon,evening
+United,UA 1829,Seattle Tacoma International Airport,Denver International Airport,451,1,163,morning,afternoon
+United,UA 1974,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,451,1,180,afternoon,evening
+Delta,DL 562,Seattle Tacoma International Airport,Hartsfield-Jackson Atlanta International Airport,457,0,286,morning,afternoon
+Delta,DL 569,Seattle Tacoma International Airport,Hartsfield-Jackson Atlanta International Airport,577,0,283,early morning,afternoon
+Delta,DL 652,Seattle Tacoma International Airport,Hartsfield-Jackson Atlanta International Airport,697,0,282,night,early morning
+Delta,DL 341,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,292,0,173,early morning,morning
+Delta,DL 431,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,312,0,172,morning,afternoon
+Delta,DL 530,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,312,0,179,afternoon,night
+United,UA 1974,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,322,0,180,afternoon,evening
+United,UA 1305,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,322,0,180,evening,night
+American,AA 420,Denver International Airport,Dallas Fort Worth International Airport,371,1,124,afternoon,evening
+American,AA 2072,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,371,1,124,evening,night
+United,UA 380,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,morning,morning
+American,AA 2754,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,morning,afternoon
+United,UA 1634,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,morning,afternoon
+American,AA 311,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,morning,afternoon
+American,AA 1070,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,148,afternoon,afternoon
+United,UA 1778,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,afternoon,afternoon
+United,UA 1324,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,afternoon,afternoon
+American,AA 2412,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,141,afternoon,evening
+American,AA 2753,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,144,afternoon,evening
+United,UA 1436,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,145,evening,night
+American,AA 566,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,138,evening,night
+United,UA 447,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,141,evening,night
+American,AA 2881,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,647,0,144,night,night
+United,UA 512,San Francisco International Airport,George Bush Intercontinental Airport,983,1,229,early morning,early morning
+United,UA 2138,George Bush Intercontinental Airport,Miami International Airport,983,1,153,morning,morning
+United,UA 274,San Francisco International Airport,George Bush Intercontinental Airport,983,1,236,early morning,morning
+United,UA 2105,George Bush Intercontinental Airport,Miami International Airport,983,1,153,afternoon,afternoon
+United,UA 2439,San Francisco International Airport,George Bush Intercontinental Airport,983,1,235,morning,afternoon
+United,UA 1501,George Bush Intercontinental Airport,Miami International Airport,983,1,153,afternoon,evening
+United,UA 1369,San Francisco International Airport,Miami International Airport,1059,0,332,night,morning
+American,AA 1121,San Francisco International Airport,Miami International Airport,1182,0,329,afternoon,night
+Delta,DL 930,San Francisco International Airport,Hartsfield-Jackson Atlanta International Airport,1749,1,280,night,morning
+Delta,DL 2008,Hartsfield-Jackson Atlanta International Airport,Miami International Airport,1749,1,121,morning,morning
+American,AA 2799,San Francisco International Airport,Miami International Airport,1892,0,330,night,morning
+Delta,DL 2183,Dallas Fort Worth International Airport,Detroit Metropolitan Wayne County Airport,713,1,158,early morning,morning
+Delta,DL 5591,Detroit Metropolitan Wayne County Airport,John F. Kennedy International Airport,713,1,111,morning,afternoon
+American,AA 1696,Dallas Fort Worth International Airport,Charlotte Douglas International Airport,713,1,159,afternoon,afternoon
+American,AA 657,Charlotte Douglas International Airport,John F. Kennedy International Airport,713,1,112,evening,night
+Delta,DL 539,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,1008,1,125,evening,night
+Delta,DL 2386,Hartsfield-Jackson Atlanta International Airport,John F. Kennedy International Airport,1008,1,131,night,early morning
+American,AA 2477,San Francisco International Airport,Chicago O'Hare International Airport,368,0,259,night,early morning
+United,UA 2232,San Francisco International Airport,Chicago O'Hare International Airport,373,0,267,early morning,morning
+United,UA 1482,San Francisco International Airport,Chicago O'Hare International Airport,373,0,266,afternoon,night
+United,UA 1896,San Francisco International Airport,Chicago O'Hare International Airport,373,0,266,evening,early morning
+United,UA 1494,San Francisco International Airport,Chicago O'Hare International Airport,373,0,264,night,early morning
+United,UA 2097,San Francisco International Airport,Chicago O'Hare International Airport,373,0,259,night,early morning
+United,UA 468,San Francisco International Airport,Chicago O'Hare International Airport,410,0,264,afternoon,night
+Alaska,AS 598,San Francisco International Airport,Chicago O'Hare International Airport,431,0,265,morning,evening
+United,UA 534,San Francisco International Airport,Chicago O'Hare International Airport,445,0,259,morning,afternoon
+United,UA 2386,San Francisco International Airport,Chicago O'Hare International Airport,445,0,259,afternoon,evening
+United,UA 1612,San Francisco International Airport,Chicago O'Hare International Airport,463,0,269,morning,evening
+American,AA 2418,San Francisco International Airport,Chicago O'Hare International Airport,478,0,257,afternoon,evening
+Southwest,WN 1582,Chicago O'Hare International Airport,Denver International Airport,349,0,165,morning,morning
+Southwest,WN 4515,Chicago O'Hare International Airport,Denver International Airport,349,0,185,evening,night
+United,UA 2334,Chicago O'Hare International Airport,Denver International Airport,356,0,170,evening,evening
+United,UA 2402,Chicago O'Hare International Airport,Denver International Airport,361,0,170,afternoon,afternoon
+Southwest,WN 2546,Chicago O'Hare International Airport,Denver International Airport,369,0,170,afternoon,afternoon
+Southwest,WN 1894,Chicago O'Hare International Airport,Denver International Airport,389,0,165,afternoon,evening
+United,UA 767,Chicago O'Hare International Airport,Denver International Airport,393,0,169,evening,night
+United,UA 711,Chicago O'Hare International Airport,Denver International Airport,409,0,170,morning,morning
+United,UA 2297,Chicago O'Hare International Airport,Denver International Airport,409,0,178,morning,morning
+United,UA 2861,Chicago O'Hare International Airport,Denver International Airport,409,0,169,afternoon,evening
+United,UA 1803,Chicago O'Hare International Airport,Denver International Airport,435,0,172,morning,afternoon
+American,AA 2812,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,140,early morning,morning
+American,AA 3076,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,145,early morning,morning
+American,AA 1106,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,145,morning,morning
+United,UA 1324,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,145,afternoon,evening
+American,AA 1125,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,149,night,night
+American,AA 2881,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,287,0,144,night,early morning
+American,AA 2754,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,307,0,159,morning,afternoon
+American,AA 2412,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,307,0,137,afternoon,evening
+United,UA 1436,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,334,0,149,evening,night
+American,AA 2723,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,342,0,146,afternoon,afternoon
+American,AA 2753,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,342,0,143,afternoon,evening
+American,AA 566,Dallas Fort Worth International Airport,Chicago O'Hare International Airport,422,0,144,evening,night
+Delta,DL 1328,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,644,1,125,evening,night
+Delta,DL 956,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,644,1,210,night,night
+United,UA 2299,Miami International Airport,Denver International Airport,679,0,281,night,night
+United,UA 279,Miami International Airport,Denver International Airport,794,0,281,afternoon,afternoon
+United,UA 2644,Miami International Airport,Denver International Airport,794,0,280,afternoon,evening
+JetBlue,B6 1993,John F. Kennedy International Airport,Miami International Airport,232,0,196,afternoon,evening
+Delta,DL 732,John F. Kennedy International Airport,Miami International Airport,237,0,203,afternoon,afternoon
+American,AA 1032,John F. Kennedy International Airport,Miami International Airport,242,0,215,morning,afternoon
+American,AA 2603,John F. Kennedy International Airport,Miami International Airport,242,0,202,evening,night
+American,AA 1174,John F. Kennedy International Airport,Miami International Airport,242,0,204,evening,night
+American,AA 1584,John F. Kennedy International Airport,Miami International Airport,267,0,200,afternoon,afternoon
+Delta,DL 1528,John F. Kennedy International Airport,Miami International Airport,277,0,202,morning,morning
+American,AA 1235,John F. Kennedy International Airport,Miami International Airport,287,0,198,early morning,morning
+American,AA 1610,John F. Kennedy International Airport,Miami International Airport,287,0,202,morning,morning
+Delta,DL 1438,John F. Kennedy International Airport,Miami International Airport,317,0,208,afternoon,evening
+JetBlue,B6 2293,John F. Kennedy International Airport,Miami International Airport,337,0,193,morning,afternoon
+Delta,DL 1428,John F. Kennedy International Airport,Miami International Airport,397,0,212,evening,night
+American,AA 2748,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,567,1,235,early morning,morning
+American,AA 1306,Dallas Fort Worth International Airport,Miami International Airport,567,1,169,afternoon,afternoon
+American,AA 3081,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,567,1,233,morning,afternoon
+American,AA 3308,Dallas Fort Worth International Airport,Miami International Airport,567,1,171,evening,night
+American,AA 2407,Seattle Tacoma International Airport,Charlotte Douglas International Airport,567,1,306,afternoon,night
+American,AA 3068,Charlotte Douglas International Airport,Miami International Airport,567,1,123,night,early morning
+American,AA 757,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,567,1,236,afternoon,night
+American,AA 2090,Dallas Fort Worth International Airport,Miami International Airport,567,1,168,night,early morning
+American,AA 2440,Los Angeles International Airport,Miami International Airport,491,0,288,morning,evening
+American,AA 658,Los Angeles International Airport,Miami International Airport,491,0,287,morning,evening
+American,AA 2284,Los Angeles International Airport,Miami International Airport,491,0,285,afternoon,night
+American,AA 2186,Los Angeles International Airport,Miami International Airport,491,0,288,night,early morning
+American,AA 922,Los Angeles International Airport,Miami International Airport,538,0,289,morning,afternoon
+United,UA 654,Los Angeles International Airport,George Bush Intercontinental Airport,648,1,194,early morning,morning
+United,UA 2105,George Bush Intercontinental Airport,Miami International Airport,648,1,156,afternoon,afternoon
+Delta,DL 811,Los Angeles International Airport,Miami International Airport,753,0,298,morning,evening
+Alaska,AS 1082,San Francisco International Airport,Seattle Tacoma International Airport,348,0,142,afternoon,evening
+Alaska,AS 1225,San Francisco International Airport,Seattle Tacoma International Airport,362,0,143,afternoon,afternoon
+United,UA 2293,San Francisco International Airport,Seattle Tacoma International Airport,362,0,141,early morning,morning
+United,UA 573,San Francisco International Airport,Seattle Tacoma International Airport,362,0,141,morning,morning
+United,UA 2315,San Francisco International Airport,Seattle Tacoma International Airport,362,0,138,morning,afternoon
+Delta,DL 3603,San Francisco International Airport,Seattle Tacoma International Airport,362,0,140,afternoon,afternoon
+United,UA 2650,San Francisco International Airport,Seattle Tacoma International Airport,362,0,138,afternoon,afternoon
+Delta,DL 3604,San Francisco International Airport,Seattle Tacoma International Airport,362,0,135,afternoon,evening
+Alaska,AS 1225,San Francisco International Airport,Seattle Tacoma International Airport,182,0,138,morning,afternoon
+Alaska,AS 1059,San Francisco International Airport,Seattle Tacoma International Airport,182,0,136,afternoon,afternoon
+Alaska,AS 971,San Francisco International Airport,Seattle Tacoma International Airport,182,0,135,afternoon,evening
+Delta,DL 672,San Francisco International Airport,Seattle Tacoma International Airport,182,0,145,early morning,morning
+United,UA 2315,San Francisco International Airport,Seattle Tacoma International Airport,182,0,140,morning,afternoon
+United,UA 593,San Francisco International Airport,Seattle Tacoma International Airport,182,0,140,afternoon,afternoon
+Delta,DL 673,San Francisco International Airport,Seattle Tacoma International Airport,182,0,144,afternoon,afternoon
+United,UA 2603,San Francisco International Airport,Seattle Tacoma International Airport,182,0,140,afternoon,evening
+United,UA 2019,San Francisco International Airport,Seattle Tacoma International Airport,182,0,140,evening,night
+Delta,DL 3720,San Francisco International Airport,Seattle Tacoma International Airport,182,0,145,night,night
+Alaska,AS 1289,San Francisco International Airport,Seattle Tacoma International Airport,192,0,138,morning,afternoon
+Alaska,AS 3339,San Francisco International Airport,Seattle Tacoma International Airport,222,0,148,evening,night
+American,AA 2770,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,153,early morning,early morning
+Delta,DL 839,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,149,morning,morning
+American,AA 1567,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,158,morning,morning
+Delta,DL 961,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,153,morning,morning
+American,AA 811,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,159,morning,afternoon
+American,AA 3104,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,159,afternoon,afternoon
+American,AA 2403,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,160,night,night
+Delta,DL 31,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,146,night,night
+Delta,DL 818,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,275,0,146,night,night
+United,UA 759,Hartsfield-Jackson Atlanta International Airport,George Bush Intercontinental Airport,294,1,147,morning,morning
+United,UA 397,George Bush Intercontinental Airport,Dallas Fort Worth International Airport,294,1,87,morning,morning
+Delta,DL 436,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,305,0,148,evening,evening
+American,AA 1248,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,305,0,154,evening,evening
+United,UA 470,Hartsfield-Jackson Atlanta International Airport,George Bush Intercontinental Airport,316,1,147,afternoon,evening
+United,UA 1373,George Bush Intercontinental Airport,Dallas Fort Worth International Airport,316,1,91,evening,night
+American,AA 1236,Hartsfield-Jackson Atlanta International Airport,Dallas Fort Worth International Airport,480,0,158,afternoon,evening
+Delta,DL 957,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,512,1,184,afternoon,night
+Delta,DL 1234,Hartsfield-Jackson Atlanta International Airport,Miami International Airport,512,1,115,night,night
+American,AA 2078,Denver International Airport,Dallas Fort Worth International Airport,555,1,123,early morning,morning
+American,AA 469,Dallas Fort Worth International Airport,Miami International Airport,555,1,171,morning,afternoon
+American,AA 573,Denver International Airport,Charlotte Douglas International Airport,555,1,197,morning,afternoon
+American,AA 2191,Charlotte Douglas International Airport,Miami International Airport,555,1,123,afternoon,afternoon
+American,AA 1244,Denver International Airport,Dallas Fort Worth International Airport,555,1,126,morning,afternoon
+American,AA 1167,Dallas Fort Worth International Airport,Miami International Airport,555,1,170,afternoon,evening
+American,AA 2359,Denver International Airport,Dallas Fort Worth International Airport,555,1,122,afternoon,afternoon
+American,AA 3308,Dallas Fort Worth International Airport,Miami International Airport,555,1,173,afternoon,night
+JetBlue,B6 434,San Francisco International Airport,Boston Logan International Airport,588,0,339,early morning,afternoon
+JetBlue,B6 1734,San Francisco International Airport,Boston Logan International Airport,588,0,346,morning,afternoon
+JetBlue,B6 534,San Francisco International Airport,Boston Logan International Airport,588,0,339,morning,evening
+JetBlue,B6 2234,San Francisco International Airport,Boston Logan International Airport,588,0,339,afternoon,night
+JetBlue,B6 734,San Francisco International Airport,Boston Logan International Airport,588,0,335,afternoon,early morning
+JetBlue,B6 134,San Francisco International Airport,Boston Logan International Airport,588,0,338,night,early morning
+Alaska,AS 356,San Francisco International Airport,Boston Logan International Airport,652,0,341,morning,evening
+United,UA 2259,San Francisco International Airport,Boston Logan International Airport,795,0,343,morning,evening
+United,UA 2851,San Francisco International Airport,Boston Logan International Airport,795,0,340,afternoon,night
+United,UA 2374,San Francisco International Airport,Boston Logan International Airport,795,0,327,afternoon,early morning
+United,UA 1230,San Francisco International Airport,Boston Logan International Airport,795,0,341,night,early morning
+United,UA 1665,San Francisco International Airport,Boston Logan International Airport,795,0,327,night,morning
+United,UA 2647,San Francisco International Airport,Boston Logan International Airport,834,0,351,morning,evening
+Alaska,AS 1083,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,180,afternoon,afternoon
+Alaska,AS 1147,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,175,afternoon,evening
+Alaska,AS 1371,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,175,afternoon,evening
+Alaska,AS 1301,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,175,evening,night
+Alaska,AS 1464,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,175,evening,night
+Alaska,AS 1093,Los Angeles International Airport,Seattle Tacoma International Airport,542,0,175,night,night
+Delta,DL 2586,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,184,morning,morning
+Delta,DL 1714,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,190,morning,afternoon
+United,UA 262,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,178,morning,afternoon
+Delta,DL 1045,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,183,morning,afternoon
+Delta,DL 2606,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,176,afternoon,afternoon
+American,AA 4882,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,179,afternoon,evening
+Delta,DL 2640,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,177,evening,evening
+Delta,DL 1551,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,183,evening,night
+United,UA 684,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,180,evening,night
+American,AA 4868,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,180,evening,night
+Delta,DL 2645,Los Angeles International Airport,Seattle Tacoma International Airport,577,0,175,night,early morning
+Contour Airlines,LF 3539,Chicago O'Hare International Airport,Waynesville - St. Robert Regional Airport,328,1,100,morning,afternoon
+Contour Airlines,LF 3551,Waynesville - St. Robert Regional Airport,Dallas Fort Worth International Airport,328,1,105,afternoon,afternoon
+American,AA 370,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,337,0,163,early morning,morning
+American,AA 482,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,337,0,160,early morning,morning
+American,AA 1902,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,163,early morning,morning
+American,AA 481,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,165,morning,afternoon
+American,AA 1109,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,165,morning,afternoon
+American,AA 2839,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,164,afternoon,afternoon
+American,AA 2499,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,159,afternoon,evening
+American,AA 396,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,422,0,164,morning,morning
+American,AA 509,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,422,0,165,morning,morning
+American,AA 2346,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,422,0,162,afternoon,evening
+United,UA 2302,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,520,0,165,afternoon,afternoon
+United,UA 2333,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,557,0,166,morning,afternoon
+United,UA 729,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,623,0,164,morning,morning
+United,UA 2049,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,623,0,165,morning,morning
+United,UA 793,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,623,0,164,afternoon,evening
+American,AA 2783,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,455,0,268,afternoon,evening
+American,AA 2003,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,455,0,269,evening,night
+American,AA 2402,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,455,0,267,night,night
+Alaska,AS 573,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,497,0,269,morning,afternoon
+Alaska,AS 909,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,497,0,268,afternoon,afternoon
+American,AA 1992,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,517,0,273,morning,afternoon
+American,AA 2405,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,517,0,269,afternoon,afternoon
+American,AA 2009,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,517,0,267,afternoon,evening
+Delta,DL 804,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,567,0,260,morning,morning
+American,AA 2767,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,312,0,270,morning,morning
+American,AA 2528,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,312,0,263,afternoon,evening
+American,AA 2009,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,312,0,261,evening,evening
+American,AA 2003,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,312,0,265,evening,night
+American,AA 1992,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,342,0,279,morning,afternoon
+American,AA 2405,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,342,0,274,afternoon,afternoon
+Alaska,AS 543,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,347,0,268,morning,morning
+Alaska,AS 909,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,347,0,267,afternoon,afternoon
+Alaska,AS 415,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,347,0,270,afternoon,afternoon
+Alaska,AS 573,Dallas Fort Worth International Airport,Seattle Tacoma International Airport,347,0,271,evening,night
+American,AA 1296,Miami International Airport,Boston Logan International Airport,188,0,210,afternoon,afternoon
+American,AA 2444,Miami International Airport,Boston Logan International Airport,188,0,218,night,night
+Delta,DL 2217,Miami International Airport,Boston Logan International Airport,197,0,205,evening,night
+American,AA 1054,Miami International Airport,Boston Logan International Airport,207,0,204,night,early morning
+JetBlue,B6 2620,Miami International Airport,Boston Logan International Airport,241,0,205,night,early morning
+JetBlue,B6 1220,Miami International Airport,Boston Logan International Airport,251,0,211,morning,afternoon
+American,AA 1226,Miami International Airport,Dallas Fort Worth International Airport,481,1,196,early morning,morning
+American,AA 1756,Dallas Fort Worth International Airport,Denver International Airport,481,1,130,morning,morning
+American,AA 1654,Miami International Airport,Dallas Fort Worth International Airport,481,1,210,morning,morning
+American,AA 420,Dallas Fort Worth International Airport,Denver International Airport,481,1,125,afternoon,afternoon
+American,AA 985,Miami International Airport,Charlotte Douglas International Airport,481,1,129,afternoon,evening
+American,AA 1529,Charlotte Douglas International Airport,Denver International Airport,481,1,216,evening,evening
+American,AA 2823,Miami International Airport,Dallas Fort Worth International Airport,481,1,206,evening,evening
+American,AA 577,Dallas Fort Worth International Airport,Denver International Airport,481,1,125,night,night
+Delta,DL 1211,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,501,1,121,morning,morning
+Delta,DL 2181,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,501,1,199,morning,morning
+United,UA 1475,Miami International Airport,George Bush Intercontinental Airport,537,1,177,evening,night
+United,UA 1338,George Bush Intercontinental Airport,Denver International Airport,537,1,152,night,night
+United,UA 2644,Miami International Airport,Denver International Airport,679,0,270,afternoon,evening
+Alaska,AS 3342,Los Angeles International Airport,San Francisco International Airport,139,0,87,morning,afternoon
+United,UA 2145,Los Angeles International Airport,San Francisco International Airport,139,0,90,early morning,morning
+United,UA 2234,Los Angeles International Airport,San Francisco International Airport,139,0,88,afternoon,afternoon
+United,UA 2019,Los Angeles International Airport,San Francisco International Airport,139,0,90,afternoon,evening
+United,UA 564,Los Angeles International Airport,San Francisco International Airport,139,0,85,evening,evening
+United,UA 552,Los Angeles International Airport,San Francisco International Airport,139,0,90,evening,night
+American,AA 3175,Los Angeles International Airport,San Francisco International Airport,139,0,85,night,night
+United,UA 1597,Los Angeles International Airport,San Francisco International Airport,139,0,86,night,early morning
+American,AA 6413,Los Angeles International Airport,San Francisco International Airport,149,0,85,afternoon,afternoon
+American,AA 6260,Los Angeles International Airport,San Francisco International Airport,149,0,83,evening,night
+Delta,DL 2267,Los Angeles International Airport,San Francisco International Airport,155,0,90,afternoon,afternoon
+Delta,DL 1559,Los Angeles International Airport,San Francisco International Airport,155,0,86,afternoon,evening
+Delta,DL 2986,Los Angeles International Airport,San Francisco International Airport,155,0,91,night,night
+Delta,DL 1421,Los Angeles International Airport,San Francisco International Airport,181,0,89,early morning,morning
+Alaska,AS 1309,Los Angeles International Airport,San Francisco International Airport,199,0,85,evening,evening
+American,AA 6451,Los Angeles International Airport,San Francisco International Airport,213,0,86,morning,morning
+Delta,DL 2054,Los Angeles International Airport,San Francisco International Airport,220,0,88,evening,evening
+United,UA 2676,San Francisco International Airport,Denver International Airport,530,0,156,early morning,morning
+United,UA 513,San Francisco International Airport,Denver International Airport,530,0,161,early morning,morning
+United,UA 618,San Francisco International Airport,Denver International Airport,530,0,160,afternoon,evening
+United,UA 566,San Francisco International Airport,Denver International Airport,530,0,160,afternoon,evening
+United,UA 373,San Francisco International Airport,Denver International Airport,530,0,157,evening,night
+United,UA 589,San Francisco International Airport,Denver International Airport,530,0,157,evening,night
+United,UA 1230,San Francisco International Airport,Denver International Airport,530,0,157,night,night
+Southwest,WN 142,San Francisco International Airport,Denver International Airport,551,0,145,early morning,morning
+Southwest,WN 1505,San Francisco International Airport,Denver International Airport,551,0,145,morning,morning
+Southwest,WN 2290,San Francisco International Airport,Denver International Airport,551,0,145,afternoon,evening
+Southwest,WN 5111,San Francisco International Airport,Denver International Airport,551,0,140,evening,night
+Delta,DL 920,San Francisco International Airport,Salt Lake City International Airport,584,1,113,morning,afternoon
+Delta,DL 1623,Salt Lake City International Airport,Denver International Airport,584,1,87,afternoon,afternoon
+United,UA 1625,San Francisco International Airport,Denver International Airport,730,0,160,morning,afternoon
+American,AA 2405,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,282,0,232,evening,night
+Alaska,AS 542,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,312,0,220,night,early morning
+American,AA 1991,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,312,0,232,early morning,early morning
+American,AA 2037,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,312,0,230,night,early morning
+American,AA 1534,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,342,0,235,morning,afternoon
+American,AA 1992,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,342,0,233,afternoon,evening
+Alaska,AS 414,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,234,morning,afternoon
+Alaska,AS 586,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,234,morning,afternoon
+Alaska,AS 372,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,232,evening,night
+Delta,DL 803,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,372,0,237,morning,afternoon
+American,AA 2767,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,372,0,234,morning,evening
+American,AA 1667,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,435,0,243,morning,afternoon
+American,AA 4670,John F. Kennedy International Airport,Cleveland Hopkins International Airport,215,1,125,morning,morning
+American,AA 4608,Cleveland Hopkins International Airport,Chicago O'Hare International Airport,215,1,96,afternoon,afternoon
+American,AA 4670,John F. Kennedy International Airport,Cleveland Hopkins International Airport,268,1,125,morning,morning
+American,AA 5935,Cleveland Hopkins International Airport,Chicago O'Hare International Airport,268,1,99,morning,afternoon
+American,AA 4611,John F. Kennedy International Airport,Pittsburgh International Airport,268,1,99,afternoon,afternoon
+American,AA 4386,Pittsburgh International Airport,Chicago O'Hare International Airport,268,1,108,evening,evening
+Delta,DL 4025,John F. Kennedy International Airport,Chicago O'Hare International Airport,298,0,186,evening,night
+Delta,DL 3730,John F. Kennedy International Airport,Chicago O'Hare International Airport,364,0,175,morning,afternoon
+American,AA 2819,John F. Kennedy International Airport,Chicago O'Hare International Airport,403,0,166,morning,morning
+Delta,DL 5783,John F. Kennedy International Airport,Chicago O'Hare International Airport,453,0,180,afternoon,evening
+American,AA 532,John F. Kennedy International Airport,Chicago O'Hare International Airport,483,0,168,afternoon,evening
+United,UA 1414,Boston Logan International Airport,Chicago O'Hare International Airport,222,0,184,early morning,morning
+United,UA 1316,Boston Logan International Airport,Chicago O'Hare International Airport,222,0,184,morning,morning
+United,UA 1823,Boston Logan International Airport,Chicago O'Hare International Airport,222,0,182,morning,afternoon
+United,UA 1732,Boston Logan International Airport,Chicago O'Hare International Airport,222,0,182,afternoon,afternoon
+American,AA 1509,Boston Logan International Airport,Chicago O'Hare International Airport,233,0,177,morning,morning
+American,AA 2837,Boston Logan International Airport,Chicago O'Hare International Airport,233,0,178,evening,evening
+American,AA 3776,Boston Logan International Airport,Chicago O'Hare International Airport,257,0,183,afternoon,afternoon
+JetBlue,B6 611,Boston Logan International Airport,Chicago O'Hare International Airport,262,0,179,afternoon,afternoon
+Delta,DL 2679,Boston Logan International Airport,Chicago O'Hare International Airport,293,0,183,morning,afternoon
+American,AA 3871,Boston Logan International Airport,Chicago O'Hare International Airport,301,0,182,afternoon,evening
+United,UA 2040,Boston Logan International Airport,Chicago O'Hare International Airport,312,0,182,afternoon,evening
+Delta,DL 2570,Boston Logan International Airport,Chicago O'Hare International Airport,317,0,188,morning,morning
+Delta,DL 2676,Boston Logan International Airport,Chicago O'Hare International Airport,317,0,183,evening,night
+United,UA 1015,Boston Logan International Airport,Chicago O'Hare International Airport,354,0,185,evening,night
+Delta,DL 2646,Boston Logan International Airport,Chicago O'Hare International Airport,397,0,182,afternoon,afternoon
+United,UA 1983,Miami International Airport,Chicago O'Hare International Airport,333,0,204,afternoon,afternoon
+American,AA 3067,Miami International Airport,Chicago O'Hare International Airport,333,0,207,afternoon,afternoon
+American,AA 3056,Miami International Airport,Chicago O'Hare International Airport,333,0,206,afternoon,evening
+United,UA 2106,Miami International Airport,Chicago O'Hare International Airport,333,0,207,afternoon,evening
+American,AA 3062,Miami International Airport,Chicago O'Hare International Airport,333,0,201,afternoon,evening
+American,AA 791,Miami International Airport,Chicago O'Hare International Airport,333,0,207,evening,night
+United,UA 1639,Miami International Airport,Chicago O'Hare International Airport,333,0,205,evening,night
+American,AA 483,Miami International Airport,Chicago O'Hare International Airport,333,0,217,night,night
+Delta,DL 1249,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,385,1,121,early morning,morning
+Delta,DL 1147,Hartsfield-Jackson Atlanta International Airport,Chicago O'Hare International Airport,385,1,127,morning,morning
+Alaska,AS 334,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,327,evening,evening
+Alaska,AS 463,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,327,evening,night
+Delta,DL 444,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,335,morning,morning
+Delta,DL 774,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,336,morning,afternoon
+Delta,DL 629,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,330,afternoon,afternoon
+Delta,DL 481,Hartsfield-Jackson Atlanta International Airport,Seattle Tacoma International Airport,387,0,328,afternoon,afternoon
+Southwest,WN 543,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,426,1,205,evening,night
+Southwest,WN 1009,Denver International Airport,Seattle Tacoma International Airport,426,1,175,night,night
+American,AA 1275,Boston Logan International Airport,Miami International Airport,302,0,236,early morning,morning
+Delta,DL 776,Boston Logan International Airport,Miami International Airport,332,0,225,afternoon,night
+American,AA 2538,Boston Logan International Airport,Miami International Airport,372,0,228,morning,morning
+American,AA 475,Boston Logan International Airport,Miami International Airport,372,0,226,afternoon,afternoon
+American,AA 1397,Boston Logan International Airport,Miami International Airport,372,0,222,evening,night
+Delta,DL 1072,Boston Logan International Airport,Miami International Airport,412,0,229,morning,morning
+JetBlue,B6 2719,Boston Logan International Airport,Miami International Airport,427,0,214,afternoon,evening
+JetBlue,B6 719,Boston Logan International Airport,Miami International Airport,497,0,214,morning,afternoon
+American,AA 166,San Francisco International Airport,John F. Kennedy International Airport,367,0,339,afternoon,night
+American,AA 234,San Francisco International Airport,John F. Kennedy International Airport,387,0,337,early morning,afternoon
+American,AA 16,San Francisco International Airport,John F. Kennedy International Airport,387,0,348,morning,evening
+JetBlue,B6 716,San Francisco International Airport,John F. Kennedy International Airport,407,0,345,night,morning
+Alaska,AS 30,San Francisco International Airport,John F. Kennedy International Airport,422,0,340,morning,evening
+Alaska,AS 20,San Francisco International Airport,John F. Kennedy International Airport,467,0,341,night,morning
+Alaska,AS 29,San Francisco International Airport,John F. Kennedy International Airport,522,0,338,afternoon,night
+Delta,DL 405,San Francisco International Airport,John F. Kennedy International Airport,536,0,337,morning,afternoon
+Delta,DL 383,San Francisco International Airport,John F. Kennedy International Airport,536,0,345,morning,evening
+Delta,DL 668,San Francisco International Airport,John F. Kennedy International Airport,536,0,351,morning,night
+Delta,DL 669,San Francisco International Airport,John F. Kennedy International Airport,536,0,337,afternoon,night
+Delta,DL 670,San Francisco International Airport,John F. Kennedy International Airport,536,0,341,night,morning
+JetBlue,B6 816,San Francisco International Airport,John F. Kennedy International Airport,547,0,338,early morning,afternoon
+JetBlue,B6 1216,San Francisco International Airport,John F. Kennedy International Airport,547,0,342,afternoon,night
+JetBlue,B6 2116,San Francisco International Airport,John F. Kennedy International Airport,587,0,340,morning,evening
+Delta,DL 363,San Francisco International Airport,John F. Kennedy International Airport,1546,0,344,afternoon,early morning
+United,UA 729,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,297,0,164,morning,morning
+United,UA 2049,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,307,0,165,morning,morning
+American,AA 370,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,307,0,163,early morning,morning
+American,AA 1902,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,337,0,163,early morning,morning
+American,AA 396,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,337,0,164,morning,morning
+United,UA 793,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,344,0,164,afternoon,evening
+American,AA 509,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,165,morning,morning
+American,AA 481,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,165,morning,afternoon
+American,AA 1109,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,165,morning,afternoon
+American,AA 2839,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,164,afternoon,afternoon
+American,AA 2346,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,162,afternoon,evening
+American,AA 2499,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,159,afternoon,evening
+American,AA 1559,Chicago O'Hare International Airport,Dallas Fort Worth International Airport,367,0,168,evening,night
+United,UA 1475,Miami International Airport,George Bush Intercontinental Airport,424,1,177,evening,night
+United,UA 725,George Bush Intercontinental Airport,San Francisco International Airport,424,1,265,night,night
+American,AA 3288,Miami International Airport,Los Angeles International Airport,492,1,352,morning,morning
+American,AA 3100,Los Angeles International Airport,San Francisco International Airport,492,1,89,afternoon,afternoon
+American,AA 1454,Miami International Airport,Phoenix Sky Harbor International Airport,492,1,304,afternoon,afternoon
+American,AA 2421,Phoenix Sky Harbor International Airport,San Francisco International Airport,492,1,128,afternoon,evening
+American,AA 3267,Miami International Airport,Dallas Fort Worth International Airport,492,1,204,afternoon,evening
+American,AA 1430,Dallas Fort Worth International Airport,San Francisco International Airport,492,1,235,evening,night
+American,AA 2982,Miami International Airport,Phoenix Sky Harbor International Airport,492,1,305,evening,evening
+American,AA 686,Phoenix Sky Harbor International Airport,San Francisco International Airport,492,1,128,night,night
+United,UA 2423,Miami International Airport,San Francisco International Airport,663,0,371,evening,night
+Delta,DL 1510,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,848,1,122,afternoon,afternoon
+Delta,DL 823,Hartsfield-Jackson Atlanta International Airport,San Francisco International Airport,848,1,331,afternoon,evening
+United,UA 573,Denver International Airport,San Francisco International Airport,397,0,175,early morning,morning
+United,UA 2391,Denver International Airport,San Francisco International Airport,397,0,175,morning,morning
+United,UA 2633,Denver International Airport,San Francisco International Airport,397,0,175,afternoon,evening
+United,UA 1007,Denver International Airport,San Francisco International Airport,397,0,176,evening,evening
+United,UA 2681,Denver International Airport,San Francisco International Airport,397,0,174,evening,night
+United,UA 800,Denver International Airport,San Francisco International Airport,397,0,176,night,night
+American,AA 1332,Denver International Airport,Phoenix Sky Harbor International Airport,416,1,124,afternoon,afternoon
+American,AA 2860,Phoenix Sky Harbor International Airport,San Francisco International Airport,416,1,131,afternoon,afternoon
+Delta,DL 2362,Denver International Airport,Salt Lake City International Airport,426,1,97,afternoon,afternoon
+Delta,DL 416,Salt Lake City International Airport,San Francisco International Airport,426,1,135,evening,evening
+Alaska,AS 364,Boston Logan International Airport,Seattle Tacoma International Airport,396,0,395,evening,night
+Delta,DL 384,Boston Logan International Airport,Seattle Tacoma International Airport,422,0,395,morning,morning
+Alaska,AS 537,Boston Logan International Airport,Seattle Tacoma International Airport,426,0,397,morning,afternoon
+United,UA 1732,Boston Logan International Airport,Chicago O'Hare International Airport,777,1,182,afternoon,afternoon
+United,UA 2278,Chicago O'Hare International Airport,Seattle Tacoma International Airport,777,1,280,afternoon,evening
+United,UA 778,Boston Logan International Airport,Denver International Airport,777,1,295,afternoon,evening
+United,UA 299,Denver International Airport,Seattle Tacoma International Airport,777,1,181,evening,night
+Alaska,AS 586,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,232,morning,evening
+Alaska,AS 549,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,232,afternoon,evening
+Alaska,AS 424,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,228,evening,night
+Alaska,AS 542,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,347,0,225,night,early morning
+Delta,DL 803,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,372,0,241,morning,afternoon
+American,AA 2695,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,402,0,244,early morning,morning
+American,AA 2748,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,402,0,243,early morning,morning
+American,AA 707,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,402,0,245,morning,afternoon
+American,AA 727,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,402,0,247,afternoon,night
+American,AA 2402,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,402,0,245,night,early morning
+American,AA 1667,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,455,0,244,morning,afternoon
+American,AA 767,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,517,0,248,morning,evening
+American,AA 757,Seattle Tacoma International Airport,Dallas Fort Worth International Airport,517,0,247,afternoon,night
+American,AA 1639,Miami International Airport,Denver International Airport,454,0,295,night,night
+American,AA 2038,Miami International Airport,Dallas Fort Worth International Airport,464,1,203,afternoon,afternoon
+American,AA 1322,Dallas Fort Worth International Airport,Denver International Airport,464,1,127,afternoon,evening
+Delta,DL 1211,Miami International Airport,Hartsfield-Jackson Atlanta International Airport,494,1,120,morning,morning
+Delta,DL 995,Hartsfield-Jackson Atlanta International Airport,Denver International Airport,494,1,208,morning,morning
+American,AA 843,Miami International Airport,Dallas Fort Worth International Airport,535,1,200,morning,morning
+American,AA 420,Dallas Fort Worth International Airport,Denver International Airport,535,1,136,afternoon,afternoon
+United,UA 2142,Miami International Airport,Denver International Airport,556,0,273,afternoon,evening
+United,UA 230,Denver International Airport,Boston Logan International Airport,227,0,232,afternoon,evening
+United,UA 1027,Denver International Airport,Boston Logan International Airport,227,0,232,afternoon,night
+United,UA 1510,Denver International Airport,Boston Logan International Airport,227,0,232,evening,night
+Southwest,WN 4234,Denver International Airport,Boston Logan International Airport,344,0,230,evening,night
+Southwest,WN 3142,Denver International Airport,Boston Logan International Airport,364,0,225,morning,evening
+Delta,DL 341,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,292,0,173,early morning,morning
+Delta,DL 530,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,292,0,179,afternoon,night
+Delta,DL 519,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,292,0,176,afternoon,night
+Delta,DL 431,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,312,0,172,morning,afternoon
+American,AA 420,Denver International Airport,Dallas Fort Worth International Airport,322,1,124,afternoon,evening
+American,AA 2072,Dallas Fort Worth International Airport,Hartsfield-Jackson Atlanta International Airport,322,1,124,evening,night
+United,UA 1305,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,322,0,180,evening,night
+United,UA 262,Denver International Airport,Hartsfield-Jackson Atlanta International Airport,415,0,180,morning,afternoon
+American,AA 4659,John F. Kennedy International Airport,Boston Logan International Airport,190,0,69,night,night
+JetBlue,B6 2818,John F. Kennedy International Airport,Boston Logan International Airport,257,0,73,early morning,morning
+JetBlue,B6 1418,John F. Kennedy International Airport,Boston Logan International Airport,257,0,78,evening,evening
+JetBlue,B6 118,John F. Kennedy International Airport,Boston Logan International Airport,267,0,75,afternoon,afternoon
+JetBlue,B6 1618,John F. Kennedy International Airport,Boston Logan International Airport,267,0,79,evening,night
+JetBlue,B6 1518,John F. Kennedy International Airport,Boston Logan International Airport,267,0,79,night,early morning
+Delta,DL 5765,John F. Kennedy International Airport,Boston Logan International Airport,267,0,90,early morning,morning
+Delta,DL 5733,John F. Kennedy International Airport,Boston Logan International Airport,302,0,80,morning,morning
+Delta,DL 5813,John F. Kennedy International Airport,Boston Logan International Airport,302,0,84,afternoon,afternoon
+Delta,DL 2639,John F. Kennedy International Airport,Boston Logan International Airport,302,0,87,night,night
+Delta,DL 5840,John F. Kennedy International Airport,Boston Logan International Airport,342,0,85,evening,evening

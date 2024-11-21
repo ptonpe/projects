@@ -1,0 +1,11 @@
+Model,Metric,Value
+Gradient Boosting,Mean Squared Error,0.05
+Random Forest,Mean Squared Error,0.07
+XGBoost,Mean Squared Error,0.06
+LightGBM,Mean Squared Error,0.04
+CatBoost,Mean Squared Error,0.03
+Gradient Boosting,R2 Score,0.95
+Random Forest,R2 Score,0.93
+XGBoost,R2 Score,0.94
+LightGBM,R2 Score,0.96
+CatBoost,R2 Score,0.97
